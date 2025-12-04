@@ -4,7 +4,12 @@
 This document lists the changes, improvements, and bug fixes for each version of the module.
 
 ### v1.1.0 - 2025-12-03 (Latest)
-* Summary: This update introduce Queue functionality.
+* Summary: This update introduce Queue functionality
+
+* 
+* 
+* 
+* 
 
 
 ### v1.0.5 - 2025-11-13
@@ -24,4 +29,5 @@ This document lists the changes, improvements, and bug fixes for each version of
 * Fix call functionality.
 * Solving call sending problem.
 * Fix user management, multiple user.
+
 
