@@ -18,7 +18,7 @@ This document lists the changes, improvements, and bug fixes for each version of
 * **User block:** Fix user datatype so you can rename it for what you want.
 
 ## v1.0.4 - 2025-08-21
-* 
+* *
 
 ## v1.0.3 - 2025-07-17
 
@@ -31,6 +31,7 @@ This document lists the changes, improvements, and bug fixes for each version of
 ### ✨ New Features 
 * **Alarm handling:** Connect Niagara alarm database so all of the messages pass through the module if it is enabled. 
 * **AlarmDemux:** action slot to connect through the alarm class.
+* **PresentValue, SourceName, Timestamp, SourceState, AckState, Priority, AlarmClass, MsgText, Uuid**
 
 ### 🐛 Bug Fixes
 * Fixed no message sent when trigger an alarm.
@@ -40,6 +41,7 @@ This document lists the changes, improvements, and bug fixes for each version of
 ### Initial Release
 * Core blocks: Call, Sms, User
 * Solving call sending problem.
+
 
 
 
