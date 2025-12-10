@@ -2,8 +2,11 @@
 # SMSEagle 
 
 This document lists the changes, improvements, and bug fixes for each version of the module.
+## v1.3.2 - 2025-12-10 (Latest)
+### 🐛 Bug Fixes
+* **Alarm extension attributes:** Fix alarm extension attributes resolving. 
 
-## v1.3.1 - 2025-12-08 (Latest)
+## v1.3.1 - 2025-12-08
 ### 🐛 Bug Fixes
 * **Version number:** Fix version numbers.
 * **Alarm ack messages:** Fix alarm ack messages.
@@ -48,6 +51,7 @@ This document lists the changes, improvements, and bug fixes for each version of
 * Core blocks: Call, Sms, User
 * Solving call and sms sending problem.
 * This is the most stable 1st version.
+
 
 
 
