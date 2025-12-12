@@ -2,7 +2,11 @@
 # SMSEagle 
 
 This document lists the changes, improvements, and bug fixes for each version of the module.
-## v1.3.2 - 2025-12-10 (Latest)
+## v1.4.0 - 2025-12-12 (Latest)
+### ✨ New Features 
+* **Ping feature:** Add ping, ping frequency, real connection status.
+
+## v1.3.2 - 2025-12-10
 ### 🐛 Bug Fixes
 * **Alarm extension attributes:** Fix alarm extension attributes resolving. 
 
@@ -51,6 +55,7 @@ This document lists the changes, improvements, and bug fixes for each version of
 * Core blocks: Call, Sms, User
 * Solving call and sms sending problem.
 * This is the most stable 1st version.
+
 
 
 
